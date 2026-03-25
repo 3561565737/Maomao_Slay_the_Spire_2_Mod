@@ -1,0 +1,12 @@
+{
+  "pck_name": "A Extensive Mod For balance and enhancement",
+  "id": "A Extensive Mod For balance and enhancement",
+  "name": "调整部分数值与机制的模组",
+  "author": "猫猫",
+  "description": "Many parts have been modified(including character attributes, relic attribute effects, some card attribute effects, and power effects). \n进行了很多部分的修改（包括角色属性、遗物属性效果、部分卡牌属性效果、Buff效果），且对本地化有部分修改。",
+  "version": "0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [""],
+  "affects_gameplay": true
+}
